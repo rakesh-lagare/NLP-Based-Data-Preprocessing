@@ -1,6 +1,6 @@
-# Research-Papers---Data-Preprocessing
+# Data-Preprocessing on Research-Papers
 
-## Data Normalisation
+## Data Normaliszation
 Data Pre-processing involves transformation of data into useful information for knownledge gain through classifying, sorting, merging, retrieving, transmitting or recording. Data preprocessing can be done manually or computer based and it also can be automated.  
 
 One such form of data preprocessing is data cleaning. Here the following steps are applied to get preprocessed data :  
